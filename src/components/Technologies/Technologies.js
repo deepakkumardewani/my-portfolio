@@ -19,8 +19,8 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world. From
-      Back-end To Front-end
+      I've experience in building applications throughout the stack using the
+      following skills:
     </SectionText>
     <List>
       <ListItem>
@@ -42,7 +42,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            NodeJS, Microservices GraphQL, MongoDB, AWS, Firebase, CI/CD
+            NodeJS, Microservices, GraphQL, MongoDB, AWS, Firebase, CI/CD
           </ListParagraph>
         </ListContainer>
       </ListItem>

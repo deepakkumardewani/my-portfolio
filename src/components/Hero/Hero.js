@@ -16,7 +16,14 @@ const Hero = (props) => (
           Hi, my name is <br />
           Deepak Kumar Dewani
         </SectionTitle>
-        <SectionText>I am a Frontend heavy Full Stack Developer</SectionText>
+        <SectionText>
+          I am a Frontend heavy Full Stack Developer
+          <br />I have over 6 years of experience building applications with
+          various Javascript frontend frameworks. I also have experience with
+          backend technologies like NodeJS, GraphQL, MongoDB. I have created
+          multiple microservices, managed DBs and deployed application to the
+          cloud using CI/CD
+        </SectionText>
       </LeftSection>
     </Section>
   </>
