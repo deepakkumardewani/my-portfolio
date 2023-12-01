@@ -14,13 +14,13 @@ import {
 
 const Header = () => (
   <Container>
-    <Div1>
+    {/* <Div1>
       <Link href='/'>
         <a style={{ display: "flex", alignItems: "center", color: "white" }}>
           <DiCssdeck size='3rem' /> <span>Deepak Kumar Dewani</span>
         </a>
       </Link>
-    </Div1>
+    </Div1> */}
     <Div2>
       <li>
         <Link href='#projects'>
