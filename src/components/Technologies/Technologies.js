@@ -30,8 +30,8 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiece with <br />
-            HTML5, CSS3, Javascript, React.js, Angular, VueJS
+            HTML, CSS/SASS (Bootstrap, Tailwind), Javascript, ReactJS, Angular,
+            VueJS, Webpack, Vite, Jest, Mocha
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -42,8 +42,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            NodeJS, GraphQL, Databases, AWS, Github
+            NodeJS, Microservices GraphQL, MongoDB, AWS, Firebase, CI/CD
           </ListParagraph>
         </ListContainer>
       </ListItem>
