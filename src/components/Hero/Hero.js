@@ -5,10 +5,9 @@ import {
   SectionText,
   SectionTitle,
 } from "../../styles/GlobalComponents";
-// import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
 
-const Hero = (props) => (
+const Hero = () => (
   <>
     <Section row nopadding>
       <LeftSection>
@@ -21,7 +20,7 @@ const Hero = (props) => (
           <br />I have over 6 years of experience building applications with
           various Javascript frontend frameworks. I also have experience with
           backend technologies like NodeJS, GraphQL, MongoDB. I have created
-          multiple microservices, managed DBs and deployed application to the
+          multiple microservices, managed DBs and deployed applications to the
           cloud using CI/CD
         </SectionText>
       </LeftSection>

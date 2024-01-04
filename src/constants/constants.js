@@ -17,15 +17,15 @@ export const projects = [
     visit: "https://react-metaverse-two.vercel.app/",
     id: 1,
   },
-  {
-    title: "Codex - ChatGPT Clone",
-    description: "",
-    image: "/images/chatgpt.png",
-    tags: ["NodeJS", "HTML", "CSS", "Express"],
-    source: "https://github.com/deepakkumardewani/chatgpt-clone",
-    visit: "https://chatgpt-clone-smoky.vercel.app/",
-    id: 2,
-  },
+  // {
+  //   title: "Codex - ChatGPT Clone",
+  //   description: "",
+  //   image: "/images/chatgpt.png",
+  //   tags: ["NodeJS", "HTML", "CSS", "Express"],
+  //   source: "https://github.com/deepakkumardewani/chatgpt-clone",
+  //   visit: "https://chatgpt-clone-smoky.vercel.app/",
+  //   id: 2,
+  // },
   {
     title: "Realtor - Modern Real State",
     description: "",
@@ -53,15 +53,15 @@ export const projects = [
     visit: "https://modern-gpt-three.vercel.app/",
     id: 3,
   },
-  {
-    title: "AI Image",
-    description: "",
-    image: "/images/aiimage.png",
-    tags: ["React", "NextJS", "Javascript", "Tailwind", "NodeJS", "Cloudinary"],
-    source: "https://github.com/deepakkumardewani/ai_image",
-    visit: "https://ai-image-alpha.vercel.app/",
-    id: 3,
-  },
+  // {
+  //   title: "AI Image",
+  //   description: "",
+  //   image: "/images/aiimage.png",
+  //   tags: ["React", "NextJS", "Javascript", "Tailwind", "NodeJS", "Cloudinary"],
+  //   source: "https://github.com/deepakkumardewani/ai_image",
+  //   visit: "https://ai-image-alpha.vercel.app/",
+  //   id: 3,
+  // },
   {
     title: "Modern Bank",
     description: "",
@@ -80,12 +80,4 @@ export const projects = [
     visit: "https://react-blog-app-ruby.vercel.app/",
     id: 3,
   },
-];
-
-export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
 ];
